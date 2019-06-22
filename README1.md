@@ -1,4 +1,4 @@
-#FIRST README1 (formatted)
+# FIRST README1 (formatted)  
 
-Hello, Elena!
+Hello, Elena!  
 How are you doing? Keep going!!
